@@ -280,10 +280,11 @@ body{
     font-weight: 600;
 }
 
-.experience .row .experience-content p{
+.experience .row .experience-content ul li{
     margin-bottom: 1.4rem;
     font-size: 1.4rem;
     line-height: 1.6;
+    list-style-type: disc;
 }
 
 .experience .row .experience-content p span{
